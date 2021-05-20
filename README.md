@@ -29,3 +29,6 @@ Einführung in SWE: 14.06.-25.06.2021 (KGB, BENG, VTC, MB)
 ## Aufgabenvariante
 
 > **An dieser Stelle wird gerade die Aufgabe für Sie generiert! Bitte in 15 Sekunden noch mal `F5` drücken**
+
+
+test42
